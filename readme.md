@@ -1,5 +1,15 @@
 # Waste Management App
 
+# Tasks
+
+One station linked to different staffs. Many point linked to single staff.
+
+|                |Updates                         |Description                         |
+|----------------|-------------------------------|-----------------------------|
+|Sagar|'manage location points`            |Edit, Delete and add points and location/IP        |
+|Mayank          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+
+
 ## **Tech Stack for Your App**
 
 ### **Frontend:**
